@@ -1,0 +1,15 @@
+[submodule "chef/cookbooks/build-essential"]
+	path = chef/cookbooks/build-essential
+	url = git@github.com:opscode-cookbooks/build-essential.git
+[submodule "chef/cookbooks/chef-rvm"]
+	path = chef/cookbooks/chef-rvm
+	url = git@github.com:fnichol/chef-rvm.git
+[submodule "chef/cookbooks/passenger_apache2"]
+	path = chef/cookbooks/passenger_apache2
+	url = git@github.com:opscode-cookbooks/passenger_apache2.git
+[submodule "chef/cookbooks/apache2"]
+	path = chef/cookbooks/apache2
+	url = git@github.com:opscode-cookbooks/apache2.git
+[submodule "chef/cookbooks/chef_gem"]
+	path = chef/cookbooks/chef_gem
+	url = git@github.com:hw-cookbooks/chef_gem.git
